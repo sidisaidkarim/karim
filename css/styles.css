@@ -6,3 +6,8 @@ body{
 	margin-top:3%;
 	
 }
+.row{
+	padding-bottom:70px;
+	padding-top:70px;
+	border-bottom:  2px inset black;
+}
